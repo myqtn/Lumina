@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Companion",
+  "description": "A high-fidelity AI companion that helps you wake up and learns about you.",
+  "requestFramePermissions": ["microphone"]
+}
